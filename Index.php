@@ -9,10 +9,9 @@
 </head>
   <body>
    
-
     <!-- Navbar -->
 
-  <div class="container">
+    <div class="container">
     <nav class="navbar navbar-expand-lg ">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Deicy Murcia</a>
@@ -41,27 +40,63 @@
 </div>
 
 <div class="row">
-    <div class= "col-md-2"></div>
 
-    <div class= "col-md-4">
-        
-        <img src="assets/profile-pic.png" class="img-thumbnail" alt="...">
+  <div class= "col-md-2"></div>
+
+    <div class= "col-md-4"><br><br><br><br><br><br><br><br>
+    <img src="assets/murcia.png" class="img" alt="...">
     </div>
      
-    <div class= "col-md-4">
-    <br><br><br><br><br>
-<p class="text-center">Hello, im </p>
+  <div class= "col-md-4 text-center">
+    <br><br><br><br><br><br><br><br>
+    <p class="text-center">Hello, im </p>
 
 
-<p class="text-md-center fw-bold">Deicy Murcia</p>
-<p class="text-md-center fw-bold">Analisis y Desarrollo de Software</p>
-
-<button type="button" class="btn btn-primary btn-md center">Small button</button>
-<button type="button" class="btn btn-secondary btn-md center">Small button</button>
-
+    <p class="text-md-center fw-bold">Deicy Murcia</p>
+    <p class="text-md-center fw-bold">Technologist software analysis and development</p>
+    <button type="button" class=" center btn btn-light">Download CV</button>
+    <button type="button" class="btn btn-dark">Contact info</button>
+    
+    <div class="container p-3">
+    <img src="assets/github.png" class="img-fluid" width="30PX" alt="logo">
+    <img src="assets/linkedin.png" class="img-fluid"  width="30PX" alt="logo2">
     </div>
 
-    <div class= "col-md-2"></div>
+  </div>
+
+  <div class= "col-md-2"></div>  
+  </div><br><br><br><br><br>
+  
+
+  <!--Parte 2: About Me  -->
+
+  <p class="text-center"> Get to know More </p>
+  <p class="text-md-center fw-bold"> About Me</p>
+
+<div class="row">
+
+  <div class= "col-md-2"></div>
+
+<div class= "col-md-4"><br><br><br><br>
+  <img src="assets/DDM.png" class="img" alt="...">
+</div>
+
+<div class= "col-md-4">
+ 
+<div class="card" style="width: 18rem;">
+  
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    
+  </div>
+ 
+</div>
+
+<div class= " col-md-2"></div>
+
+  
+    
 
 
 
